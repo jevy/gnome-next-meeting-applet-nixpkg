@@ -1,3 +1,5 @@
+Building a nixpkg for [gnome-next-meeting-applet](https://github.com/chmouel/gnome-next-meeting-applet)
+
 Jump into the shell to play with poetry:
 ```
 nix-shell
