@@ -15,6 +15,6 @@ poetry install
 - [ ] Publish it
 
 ## References
-- [Poetry2nix tutorial](https://github.com/NixOS/nixpkgs/blob/master/pkgs/tools/misc/alarm-clock-applet/default.nix)
+- [Poetry2nix tutorial](https://www.tweag.io/blog/2020-08-12-poetry2nix/)
 - [Gnome Applet Reference nixpkg](https://github.com/NixOS/nixpkgs/blob/master/pkgs/tools/misc/alarm-clock-applet/default.nix)
 - [buildInputs with poetry2nix example](https://nixops.readthedocs.io/en/latest/plugins/authoring.html)
